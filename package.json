@@ -1,0 +1,23 @@
+{
+  "name": "cleaning-service",
+  "version": "1.0.0",
+  "description": "website",
+  "main": "index.js",
+  "homepage": "https://elviredev.github.io/cleaning-service",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviredev/cleaning-service.git"
+  },
+  "author": "elviredev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elviredev/cleaning-service/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
